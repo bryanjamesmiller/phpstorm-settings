@@ -1,0 +1,29 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="phpunit">
+      <typing text-keycode="86:0;69:0;78:0;68:0;79:0;82:0;47:0;66:0;73:0;78:0;47:0;80:0;72:0;80:0;85:0;78:0;73:0;84:0;32:0;45:0;68:0;32:0;77:0;69:0;77:0;79:0;82:0;89:0;0:1;76:0;73:0;77:0;73:0;84:0;61:0;53:0;48:0;48:0;77:1;32:0;45:0;45:0;70:0;73:0;76:0;84:0;69:0;82:0;32:0">vendor/bin/phpunit&amp;#x20;-d&amp;#x20;memory_limit=500M&amp;#x20;--filter&amp;#x20;</typing>
+    </macro>
+    <macro name="dusk">
+      <typing text-keycode="80:0;72:0;80:0;32:0;65:0;82:0;84:0;73:0;83:0;65:0;78:0;32:0;68:0;85:0;83:0;75:0;32:0;45:0;68:0;32:0;77:0;69:0;77:0;79:0;82:0;89:0;0:1;76:0;73:0;77:0;73:0;84:0;61:0;53:0;48:0;48:0;77:1;32:0;45:0;45:0;70:0;73:0;76:0;84:0;69:0;82:0;32:0">php&amp;#x20;artisan&amp;#x20;dusk&amp;#x20;-d&amp;#x20;memory_limit=500M&amp;#x20;--filter&amp;#x20;</typing>
+    </macro>
+    <macro name="paid ngrok">
+      <typing text-keycode="86:0;65:0;76:0;69:0;84:0;32:0;83:0;72:0;65:0;82:0;69:0;32:0;45:0;83:0;85:0;66:0;68:0;79:0;77:0;65:0;73:0;78:0;61:0;70:0;52:0;66:0;49:0;65:0;68:0;55:0;52:0;32:0;45:0;45:0;65:0;85:0;84:0;72:0;84:0;79:0;75:0;69:0;78:0;61:0;49:0;88:1;73:0;84:0;71:1;83:0;82:0;88:0;69:1;54:0;88:1;85:0;74:1;65:0;80:0;70:1;88:0;71:1;86:0;71:1;66:1;82:0;78:0;70:1;52:0;90:0;85:1;0:1;77:1;83:1;87:1;88:1;89:0;49:0;66:1;85:0;78:0;66:0;82:1;68:1;83:0;67:0;69:0;52:0;84:1;70:1;86:0;54:0">valet&amp;#x20;share&amp;#x20;-subdomain=f4b1ad74&amp;#x20;--authtoken=1XitGsrxE6XuJapFxGvGBrnF4zU_MSWXy1BunbRDsce4TFv6</typing>
+    </macro>
+    <macro name="DocBlock">
+      <typing text-keycode="47:0;106:1;106:1">/**</typing>
+      <action id="EditorEnter" />
+      <action id="EditorUp" />
+      <action id="EditorEnter" />
+      <typing text-keycode="83:1;72:0;79:0;82:0;84:0;32:0;68:0;69:0;83:0;67:0;82:0;73:0;80:0;84:0;73:0;79:0;78:0;32:0">Short&amp;#x20;description&amp;#x20;</typing>
+      <action id="EditorEnter" />
+      <action id="EditorDown" />
+      <action id="EditorLineEnd" />
+      <action id="EditorEnter" />
+      <action id="EditorEnter" />
+      <typing text-keycode="0:1;82:0;69:0;84:0;85:0;82:0;78:0;32:0;86:0;79:0;73:0;68:0">@return&amp;#x20;void</typing>
+    </macro>
+    <macro name="php-cs-fixer fix">
+      <typing text-keycode="80:0;72:0;80:0;45:0;67:0;83:0;45:0;70:0;73:0;88:0;69:0;82:0;32:0;70:0;73:0;88:0;32:0">php-cs-fixer&amp;#x20;fix&amp;#x20;</typing>
+    </macro>
+  </component>
+</application>

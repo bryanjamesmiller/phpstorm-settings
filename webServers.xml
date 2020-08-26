@@ -1,0 +1,16 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7ad78ef0-1a8b-41b3-bd2e-d8ebd4c08778" name="Apache" url="http://BuddoBotLaravel.localhost">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+      <webServer id="048e724e-9679-4b6b-a4e3-fce6d8f4e2f1" name="grat.xyz" url="http://grat.xyz">
+        <fileTransfer rootFolder="/var/www/html" accessType="SFTP" sshConfigId="d8c6e908-1840-437d-b4fa-9bf0b829d1db" sshConfig="grat.xyz" username="root" password="dfe8dfc0dfc7df9ddf9adfcfdf9bdf98df8b">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

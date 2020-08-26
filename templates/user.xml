@@ -1,0 +1,14 @@
+<templateSet group="user">
+  <template name="jso" value="echo '&lt;script&gt;console.log(' . json_encode($s$) . ');&lt;/script&gt;';" description="PHP code to JS console" toReformat="false" toShortenFQNames="true">
+    <variable name="s" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="con" value="console.log($s$);" description="console.log();" toReformat="false" toShortenFQNames="true">
+    <variable name="s" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

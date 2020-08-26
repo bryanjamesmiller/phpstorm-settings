@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="grat.xyz" id="fda5c48e-b644-44a4-ba8a-4ae65bf871ea" port="22" customName="grat.xyz" nameFormat="CUSTOM" username="root" />
+    </configs>
+  </component>
+</application>
