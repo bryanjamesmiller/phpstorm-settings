@@ -12,10 +12,6 @@
     <keyboard-shortcut first-keystroke="alt back_space" />
     <keyboard-shortcut first-keystroke="meta z" />
   </action>
-  <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="alt f12" />
-    <keyboard-shortcut first-keystroke="ctrl t" />
-  </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
     <mouse-shortcut keystroke="button4" />
@@ -44,6 +40,9 @@
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="ctrl d" />
     <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="EditorToggleColumnMode">
+    <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.ShowHiddens">
