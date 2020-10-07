@@ -26,6 +26,7 @@
       <mapping pattern="primary_event" type="PLAIN_TEXT" />
       <mapping pattern=".env.dusk" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".env.ci" type="PLAIN_TEXT" />
       <mapping ext="d-template" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
