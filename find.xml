@@ -17,5 +17,6 @@
     <mask>*.hphp</mask>
     <mask>*.module</mask>
     <mask>*.php</mask>
+    <mask>*.js</mask>
   </component>
 </application>
