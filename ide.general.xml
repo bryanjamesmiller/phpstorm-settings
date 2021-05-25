@@ -26,6 +26,7 @@
       <map>
         <entry key="Encoding" value="false" />
         <entry key="LineSeparator" value="false" />
+        <entry key="Memory" value="true" />
         <entry key="com.intellij.psi.codeStyle.statusbar.CodeStyleStatusBarWidget" value="false" />
         <entry key="mtStatusBar" value="false" />
       </map>
