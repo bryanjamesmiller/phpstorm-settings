@@ -3,18 +3,18 @@
     <option name="excludedColor" value="2e3c43ff" />
     <option name="accentColor" value="009688ff" />
     <option name="notificationsColor" value="323232ff" />
-    <option name="treeSelectionColor" value="72727232" />
+    <option name="treeSelectionColor" value="546e7a50" />
     <option name="highlightColor" value="425b67ff" />
     <option name="secondBorderColor" value="2a373eff" />
-    <option name="tableSelectedColor" value="050404ff" />
-    <option name="contrastColor" value="f31f32ff" />
-    <option name="disabledColor" value="681111ff" />
-    <option name="secondaryBackgroundColor" value="050404ff" />
-    <option name="buttonColor" value="f31f32ff" />
+    <option name="tableSelectedColor" value="2737f3ff" />
+    <option name="contrastColor" value="2737f3ff" />
+    <option name="disabledColor" value="415967ff" />
+    <option name="secondaryBackgroundColor" value="32424aff" />
+    <option name="buttonColor" value="2e3c43ff" />
     <option name="selectionForegroundColor" value="f8f6f6ff" />
-    <option name="selectionBackgroundColor" value="050404ff" />
-    <option name="textColor" value="c8c8d2ff" />
-    <option name="foregroundColor" value="ffffffff" />
-    <option name="backgroundColor" value="050404ff" />
+    <option name="selectionBackgroundColor" value="2737f3ff" />
+    <option name="textColor" value="607d8bff" />
+    <option name="foregroundColor" value="f6f5f5ff" />
+    <option name="backgroundColor" value="181826ff" />
   </component>
 </application>
