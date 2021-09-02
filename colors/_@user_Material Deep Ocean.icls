@@ -4,7 +4,7 @@
     <property name="created">2020-08-08T16:23:50</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.2.0.0</property>
-    <property name="modified">2021-07-16T10:38:16</property>
+    <property name="modified">2021-09-01T23:10:25</property>
     <property name="originalScheme">Material Deep Ocean</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.7" />
@@ -72,7 +72,7 @@
     <option name="SELECTED_INDENT_GUIDE" value="84ffff" />
     <option name="SELECTED_TEARLINE_COLOR" value="84ffff" />
     <option name="SELECTION_BACKGROUND" value="3b3f51" />
-    <option name="SELECTION_FOREGROUND" value="fffbf7" />
+    <option name="SELECTION_FOREGROUND" value="f17e07" />
     <option name="SEPARATOR_BELOW_COLOR" value="3b3f51" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="3b3f51" />
     <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="84ffffc0" />
@@ -2996,7 +2996,6 @@
         <option name="FOREGROUND" value="ffcb6b" />
       </value>
     </option>
-    <option name="PY.BUILTIN_NAME" baseAttributes="" />
     <option name="PY.DECORATOR">
       <value>
         <option name="FOREGROUND" value="82aaff" />
@@ -3633,7 +3632,7 @@
     </option>
     <option name="TAB_SELECTED">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="727272" />
       </value>
     </option>
     <option name="TAB_SELECTED_INACTIVE">
