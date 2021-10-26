@@ -11,4 +11,28 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
+  <template name="rab" value="ray($s$)-&gt;blue();" description="ray()-&gt;blue();" toReformat="false" toShortenFQNames="true">
+    <variable name="s" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="rag" value="ray($s$)-&gt;green();" description="ray()-&gt;green();" toReformat="false" toShortenFQNames="true">
+    <variable name="s" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="rap" value="ray($s$)-&gt;purple();" description="ray()-&gt;purple();" toReformat="false" toShortenFQNames="true">
+    <variable name="s" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="rao" value="ray($s$)-&gt;orange();" description="ray()-&gt;orange();" toReformat="false" toShortenFQNames="true">
+    <variable name="s" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
 </templateSet>
