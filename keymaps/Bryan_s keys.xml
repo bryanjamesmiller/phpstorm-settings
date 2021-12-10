@@ -21,6 +21,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt c" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.AddColumn" />
   <action id="Diff.ShowDiff" />
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="meta c" />
@@ -40,9 +41,6 @@
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="ctrl d" />
     <keyboard-shortcut first-keystroke="meta d" />
-  </action>
-  <action id="EditorToggleColumnMode">
-    <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.ShowHiddens">
@@ -74,6 +72,11 @@
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift ctrl n" />
     <keyboard-shortcut first-keystroke="ctrl g" />
+  </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
+    <mouse-shortcut keystroke="control alt button1" />
+    <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="ctrl l" />
