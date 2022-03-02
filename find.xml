@@ -20,7 +20,7 @@
     <mask>*.inc</mask>
     <mask>*.install</mask>
     <mask>*.js</mask>
-    <mask>*.php</mask>
     <mask>*.vue</mask>
+    <mask>*.php</mask>
   </component>
 </application>
