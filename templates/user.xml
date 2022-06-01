@@ -1,0 +1,47 @@
+<templateSet group="user">
+  <template name="jso" value="echo '&lt;script&gt;console.log(' . json_encode($s$) . ');&lt;/script&gt;';" description="PHP code to JS console" toReformat="false" toShortenFQNames="true">
+    <variable name="s" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="con" value="console.log($s$);" description="console.log();" toReformat="false" toShortenFQNames="true">
+    <variable name="s" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="rab" value="ray($s$)-&gt;blue();" description="ray()-&gt;blue();" toReformat="false" toShortenFQNames="true">
+    <variable name="s" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="rag" value="ray($s$)-&gt;green();" description="ray()-&gt;green();" toReformat="false" toShortenFQNames="true">
+    <variable name="s" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="rap" value="ray($s$)-&gt;purple();" description="ray()-&gt;purple();" toReformat="false" toShortenFQNames="true">
+    <variable name="s" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="rao" value="ray($s$)-&gt;orange();" description="ray()-&gt;orange();" toReformat="false" toShortenFQNames="true">
+    <variable name="s" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="coni" value="console.log(`${String.fromCodePoint(0x1F603)} $s$`);" description="console.log with icon" toReformat="true" toShortenFQNames="true">
+    <variable name="s" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="ES6_STATEMENT" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+      <option name="VUE_COMPONENT_DESCRIPTOR" value="true" />
+      <option name="VUE_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,48 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs" />
+    <extensionMap>
+      <mapping pattern="PageController.php" type="AUTO_DETECTED" />
+      <mapping pattern="GetFormattedDataForLogicParser.js" type="AUTO_DETECTED" />
+      <mapping ext="info" type="Ini" />
+      <mapping pattern="AwsQueueSubscribe" type="PHP" />
+      <mapping ext="install" type="PHP" />
+      <mapping ext="test" type="PHP" />
+      <mapping ext="engine" type="PHP" />
+      <mapping ext="profile" type="PHP" />
+      <mapping ext="theme" type="PHP" />
+      <mapping pattern=".env.dusk.local" type="PLAIN_TEXT" />
+      <mapping pattern=".env.swp" type="PLAIN_TEXT" />
+      <mapping pattern=".env.dusk" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="error_log" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".env.homestead" type="PLAIN_TEXT" />
+      <mapping pattern="BehatRunNowWorkerHandlerTest.php" type="PLAIN_TEXT" />
+      <mapping pattern=".env.ci" type="PLAIN_TEXT" />
+      <mapping pattern="c10f40999b74c408263f790b30e70efe" type="PLAIN_TEXT" />
+      <mapping pattern=".env.testing" type="PLAIN_TEXT" />
+      <mapping pattern="ImageResizeTest" type="PLAIN_TEXT" />
+      <mapping pattern=".php_cs.dist" type="PLAIN_TEXT" />
+      <mapping pattern="env" type="PLAIN_TEXT" />
+      <mapping pattern="encrypted" type="PLAIN_TEXT" />
+      <mapping pattern="primary_event" type="PLAIN_TEXT" />
+      <mapping pattern="AwsQueueSubscribe.php" type="PLAIN_TEXT" />
+      <mapping ext="d-template" type="PLAIN_TEXT" />
+      <mapping ext="example" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
+      <mapping ext="ai" type="PLAIN_TEXT" />
+      <mapping ext="j2" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="makefile" approved="true" type="textmate" />
+      <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping pattern=".env" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="diff" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern=".gitignore_global" type="Git file" />
+    </extensionMap>
+  </component>
+</application>

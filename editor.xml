@@ -1,0 +1,30 @@
+<application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_IMPORTS" value="false" />
+    <option name="COLLAPSE_FILE_HEADER" value="false" />
+  </component>
+  <component name="DaemonCodeAnalyzerSettings">
+    <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
+  </component>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="" />
+    <option name="STRIP_TRAILING_SPACES" value="Whole" />
+    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
+    <option name="SHOW_INSPECTION_WIDGET" value="false" />
+    <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
+  </component>
+  <component name="LiveEditOptions" restartIfHotSwapFailed="true" updatePolicy="AUTO" />
+  <component name="PhpCodeFoldingSettings">
+    <option name="COLLAPSE_IMPORTS" value="false" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+  </component>
+  <component name="XmlEditorOptions">
+    <option name="showCssInlineColorPreview" value="true" />
+  </component>
+  <component name="XmlFoldingSettings">
+    <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
+  </component>
+</application>
