@@ -24,8 +24,8 @@
     <mask>*.inc</mask>
     <mask>*.install</mask>
     <mask>*.blade.php</mask>
-    <mask>*.php</mask>
     <mask>*.js</mask>
+    <mask>*.php</mask>
     <mask>*.vue</mask>
   </component>
 </application>
